@@ -3,6 +3,7 @@ Landing page ini dibuat sebagai tugas akhir Percobaan 3 pada modul Pemrograman W
 Website ini dibangun menggunakan Tailwind CSS sebagai framework utama.
 
 📌 Deskripsi Proyek
+
 TechVision adalah website landing page responsif untuk perusahaan teknologi fiktif yang menawarkan berbagai solusi digital.
 Website ini menampilkan elemen desain modern dengan pendekatan utility-first dari Tailwind CSS, serta interaksi sederhana menggunakan JavaScript.
 
