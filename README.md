@@ -11,7 +11,7 @@ Website ini menampilkan elemen desain modern dengan pendekatan utility-first dar
 📁 Struktur Folder
 1.  index.html
 2.  gambar1.png
-3.  gambar1.jpg
+3.  gambar2.jpg
 4.  README.md
 
 🚀 Cara Menjalankan
